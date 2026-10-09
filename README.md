@@ -22,6 +22,7 @@
 | [1211-queries-quality-and-percentage](https://github.com/PoojaRajawat11/DSA/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/PoojaRajawat11/DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/PoojaRajawat11/DSA/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/PoojaRajawat11/DSA/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1729-find-followers-count](https://github.com/PoojaRajawat11/DSA/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/PoojaRajawat11/DSA/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/PoojaRajawat11/DSA/tree/main/1789-primary-department-for-each-employee/) | Easy |
