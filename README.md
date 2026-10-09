@@ -25,6 +25,7 @@
 | [1729-find-followers-count](https://github.com/PoojaRajawat11/DSA/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/PoojaRajawat11/DSA/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/PoojaRajawat11/DSA/tree/main/1789-primary-department-for-each-employee/) | Easy |
+| [1907-count-salary-categories](https://github.com/PoojaRajawat11/DSA/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/PoojaRajawat11/DSA/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/PoojaRajawat11/DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
