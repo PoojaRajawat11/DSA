@@ -10,6 +10,7 @@
 | [0550-game-play-analysis-iv](https://github.com/PoojaRajawat11/DSA/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/PoojaRajawat11/DSA/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/PoojaRajawat11/DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/PoojaRajawat11/DSA/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0610-triangle-judgement](https://github.com/PoojaRajawat11/DSA/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/PoojaRajawat11/DSA/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/PoojaRajawat11/DSA/tree/main/0620-not-boring-movies/) | Easy |
