@@ -27,6 +27,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/PoojaRajawat11/DSA/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/PoojaRajawat11/DSA/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/PoojaRajawat11/DSA/tree/main/1251-average-selling-price/) | Easy |
+| [1321-restaurant-growth](https://github.com/PoojaRajawat11/DSA/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/PoojaRajawat11/DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/PoojaRajawat11/DSA/tree/main/1341-movie-rating/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/PoojaRajawat11/DSA/tree/main/1484-group-sold-products-by-the-date/) | Easy |
