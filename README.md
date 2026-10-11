@@ -58,4 +58,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PoojaRajawat11/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PoojaRajawat11/DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PoojaRajawat11/DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PoojaRajawat11/DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PoojaRajawat11/DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
