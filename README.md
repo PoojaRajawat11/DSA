@@ -66,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/PoojaRajawat11/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/PoojaRajawat11/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PoojaRajawat11/DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
@@ -90,4 +91,9 @@
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/PoojaRajawat11/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/PoojaRajawat11/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/PoojaRajawat11/DSA/tree/main/0392-is-subsequence/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/PoojaRajawat11/DSA/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
