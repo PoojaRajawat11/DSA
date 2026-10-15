@@ -78,6 +78,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/PoojaRajawat11/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/PoojaRajawat11/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PoojaRajawat11/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Greedy
@@ -87,5 +88,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/PoojaRajawat11/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/PoojaRajawat11/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
