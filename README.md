@@ -80,6 +80,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/PoojaRajawat11/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/PoojaRajawat11/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/PoojaRajawat11/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/PoojaRajawat11/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -103,4 +104,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/PoojaRajawat11/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/PoojaRajawat11/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
