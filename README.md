@@ -88,6 +88,7 @@
 | [0605-can-place-flowers](https://github.com/PoojaRajawat11/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/PoojaRajawat11/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PoojaRajawat11/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/PoojaRajawat11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/PoojaRajawat11/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/PoojaRajawat11/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/PoojaRajawat11/DSA/tree/main/0443-string-compression/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/PoojaRajawat11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +121,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/PoojaRajawat11/DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/PoojaRajawat11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/PoojaRajawat11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 <!---LeetCode Topics End-->
