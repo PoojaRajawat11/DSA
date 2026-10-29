@@ -66,6 +66,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/PoojaRajawat11/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/PoojaRajawat11/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/PoojaRajawat11/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/PoojaRajawat11/DSA/tree/main/0392-is-subsequence/) | Easy |
@@ -84,6 +85,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PoojaRajawat11/DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/PoojaRajawat11/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/PoojaRajawat11/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/PoojaRajawat11/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/PoojaRajawat11/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/PoojaRajawat11/DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -134,4 +136,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PoojaRajawat11/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/PoojaRajawat11/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
